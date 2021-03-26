@@ -1,7 +1,5 @@
 {
-"type": "FeatureCollection",
 "name": "Districts",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "region": "Arusha Region", "District": "Meru District" }, "geometry": null },
 { "type": "Feature", "properties": { "region": "Arusha Region", "District": "Arusha City" }, "geometry": null },

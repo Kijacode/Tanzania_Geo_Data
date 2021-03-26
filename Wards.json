@@ -1,7 +1,5 @@
 {
-"type": "FeatureCollection",
-"name": "Wards",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name":"Wards",
 "features": [
 { "type": "Feature", "properties": { "District": "Bahi District", "Ward": "Babayu" }, "geometry": null },
 { "type": "Feature", "properties": { "District": "Bahi District", "Ward": "Bahi" }, "geometry": null },
