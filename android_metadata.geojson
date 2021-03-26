@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "android_metadata",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "locale": "en_US" }, "geometry": null }
+]
+}
